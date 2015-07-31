@@ -10,6 +10,8 @@ namespace test.Controllers
     {
         public ActionResult Index()
         {
+            //En kommentar
+
             return View();
         }
     }

@@ -10,6 +10,8 @@ namespace test
 {
     public partial class Startup
     {
+        //En kommentart
+
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
